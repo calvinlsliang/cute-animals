@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">CuteAnimals</string>
+    <string name="image_of_the_cute_animal">Image of the cute animal!</string>
 </resources>
